@@ -3,4 +3,4 @@
 App that shows the current weather of given address. Matches the closest result of given address.
 
 ## What I learned
-Creating basic express application and querying data from separate APIs (Google and Darksky).
+Creating basic express application and querying data from third-party-APIs (Google Geocode and Darksky).
